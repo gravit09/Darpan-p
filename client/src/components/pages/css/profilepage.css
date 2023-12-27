@@ -95,6 +95,18 @@
   display: flex;
 }
 
+@media (max-width: 800px) {
+  .card-holder {
+    flex-direction: column;
+  }
+
+  .card {
+    margin-top: 15px;
+    margin: auto;
+    margin-bottom: 15px;
+  }
+}
+
 .card-body {
   padding: 20px;
   text-align: center;
