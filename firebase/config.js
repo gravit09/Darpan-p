@@ -2,7 +2,7 @@ const { initializeApp } = require("firebase/app");
 const { getFirestore } = require("firebase/firestore/lite");
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCjOZ0NLJpwmRi-DIcZUHEMKLSDvRJN8kE",
+  apiKey: "key Here",
 
   authDomain: "darpan-6466d.firebaseapp.com",
 
